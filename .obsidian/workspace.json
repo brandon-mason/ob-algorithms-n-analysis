@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "1d54ef2f560eaab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf5c7b568c338c13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff8c23411e567189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asymptotic Representations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asymptotic Representations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c987cb67d9e1548",
+    "type": "split",
+    "children": [
+      {
+        "id": "f93f30b6d9cb4c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a08f3914f5a025ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "90ce944798e80d31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "080c7d1716539644",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "504fadd543d27786",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b2c3f52f2d3bb74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d5cc22cf5c68780",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Asymptotic Representations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Asymptotic Representations"
+            }
+          },
+          {
+            "id": "cc6bbe7c75493144",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trees.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Trees"
+            }
+          },
+          {
+            "id": "a980843cf9dcd532",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c54b6b1b84e741d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trees.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Trees"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ff8c23411e567189",
+  "lastOpenFiles": [
+    "sorting.md",
+    "Notes/Trees.md",
+    "OO/images/Pasted image 20241119001543.png",
+    "OO/images/Pasted image 20241119001504.png",
+    "OO/images/Pasted image 20241118205617.png",
+    "OO/Trees.md",
+    "OO/images",
+    "OO",
+    "Untitled.md",
+    "Notes/images/Pasted image 20241118205617.png",
+    "Notes/images/Pasted image 20241119001504.png",
+    "Notes/images",
+    "images/Trees",
+    "Notes/images/Pasted image 20241119001543.png",
+    "Notes"
+  ]
+}
