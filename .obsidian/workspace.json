@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trees.md",
+                "file": "Asymptotic Representations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trees"
+              "title": "Outgoing links from Asymptotic Representations"
             }
           },
           {
@@ -128,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trees.md"
+                "file": "Asymptotic Representations.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trees"
+              "title": "Outline of Asymptotic Representations"
             }
           }
         ]
@@ -164,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff8c23411e567189",
+  "active": "5d5cc22cf5c68780",
   "lastOpenFiles": [
     "sorting.md",
     "Notes/Trees.md",
