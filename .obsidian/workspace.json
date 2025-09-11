@@ -150,8 +150,19 @@
               "icon": "lucide-list",
               "title": "Outline of Asymptotic Representations"
             }
+          },
+          {
+            "id": "ec4887e4a853a228",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d5cc22cf5c68780",
+  "active": "a08f3914f5a025ca",
   "lastOpenFiles": [
     "sorting.md",
     "Notes/Trees.md",
