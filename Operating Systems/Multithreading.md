@@ -31,3 +31,4 @@ Multiple different execution paths are possible when running on multiple cores m
 
 <hr>
 ## Amdahl's Law
+Shows potential performance gains from adding cores to an application.
