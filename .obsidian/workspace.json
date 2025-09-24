@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "55588d56f0edd58c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20250915185610.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250915185610"
+            }
+          },
+          {
             "id": "9292f06d7f6ec753",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,17 +235,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3f18ef0ef7e9d05",
+  "active": "55588d56f0edd58c",
   "lastOpenFiles": [
+    "Algorithms and Analysis/Amortization.md",
+    "conflict-files-obsidian-git.md",
+    "Operating Systems/hw1.md",
+    "images/Pasted image 20250915185610.png",
     "?????????????.md",
     "Computer Vision/Project.md",
     "Untitled.base",
     "Operating Systems/Multithreading.md",
     "Operating Systems/CPU Scheduling.md",
     "Operating Systems/9-3.md",
-    "Operating Systems/hw1.md",
     "Pasted image 20250915185610.png",
-    "Algorithms and Analysis/Amortization.md",
     "Computer Vision/9-11.md",
     "Algorithms and Analysis/Asymptotic Representations.md",
     "Computer Vision",
