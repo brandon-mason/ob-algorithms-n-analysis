@@ -1,4 +1,4 @@
-OS's optimize CPU usage by "context switching." This means that when one process is waiting or its execution is blocked, the OS takes the CPU from that process and moves it to another so that no CPU time is wasted.
+ OS's optimize CPU usage by "context switching." This means that when one process is waiting or its execution is blocked, the OS takes the CPU from that process and moves it to another so that no CPU time is wasted.
 This is achieved through holding many processes in memory at the same time.
 
 <hr>
