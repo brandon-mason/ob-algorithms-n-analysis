@@ -15,3 +15,4 @@ Keep a table of known values, so that if we are ever asked for a known value, we
 
 Only requirement is that we have a way of parameterizing known results to allow efficient lookup in the table.
 
+## General Technique
