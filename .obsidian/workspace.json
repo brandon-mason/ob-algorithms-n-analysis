@@ -120,6 +120,20 @@
             }
           },
           {
+            "id": "fb607273acafb874",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
             "id": "9292f06d7f6ec753",
             "type": "leaf",
             "state": {
@@ -134,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -293,15 +307,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a08f3914f5a025ca",
+  "active": "fb607273acafb874",
   "lastOpenFiles": [
-    "Computer Vision/Deep Learning.md",
+    "Operating Systems/9-3(3).md",
+    "Operating Systems/CPU Scheduling(6).md",
+    "conflict-files-obsidian-git.md",
     "Algorithms and Analysis/A&A midterm review.md",
     "Operating Systems/OS midterm review.md",
+    "Operating Systems/Multithreading.md",
+    "images/image.jpg",
+    "images/every-time-i-see-this-logo-i-think-about-how-genius-it-is-v0-jlwg8frde4kd1.webp",
+    "Operating Systems/(6)CPU Scheduling.md",
+    "Operating Systems/(3)9-3.md",
+    "Computer Vision/Deep Learning.md",
     "Algorithms and Analysis/Dynamic Programming.md",
     "images/Pasted image 20251008120156.png",
-    "Operating Systems/CPU Scheduling(6).md",
-    "Operating Systems/9-3(3).md",
     "Algorithms and Analysis/Compare Sotrs.md",
     "Computer Vision/9-11.md",
     "Operating Systems/9-3.md",
@@ -311,10 +331,8 @@
     "Untitled.base",
     "images/Pasted image 20250915185610.png",
     "Algorithms and Analysis/Amortization.md",
-    "conflict-files-obsidian-git.md",
     "Operating Systems/hw1.md",
     "Computer Vision/Project.md",
-    "Operating Systems/Multithreading.md",
     "Operating Systems/CPU Scheduling.md",
     "Pasted image 20250915185610.png",
     "Algorithms and Analysis/Asymptotic Representations.md",
@@ -330,10 +348,8 @@
     "OO/images",
     "OO",
     "Notes/images/Pasted image 20241118205617.png",
-    "Notes/images/Pasted image 20241119001504.png",
     "Notes/images",
     "images/Trees",
-    "Notes/images/Pasted image 20241119001543.png",
     "Notes"
   ]
 }
