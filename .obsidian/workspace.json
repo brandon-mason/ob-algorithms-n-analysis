@@ -13,15 +13,30 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "?????????????.md",
-                "bFile": "?????????????.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: ?????????????"
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "b95597c5893e1d18",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9292f06d7f6ec753",
+  "active": "b95597c5893e1d18",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "images/Pasted image 20251006222526.png",
+    "Pasted image 20251008120156.png",
+    "Operating Systems/CPU Scheduling(6).md",
+    "Operating Systems/9-3(3).md",
+    "Dynamic Programming.md",
+    "Computer Vision/Deep Learning.md",
+    "Computer Vision/Chapter 3.md",
+    "Compare Sotrs.md",
     "Operating Systems/(6)CPU Scheduling.md",
     "Operating Systems/Multithreading.md",
     "Operating Systems/(3)9-3.md",
@@ -212,7 +236,6 @@
     "Notes/images/Pasted image 20241119001504.png",
     "Notes/images",
     "images/Trees",
-    "Notes/images/Pasted image 20241119001543.png",
     "Notes"
   ]
 }
